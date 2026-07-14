@@ -11,3 +11,14 @@
 .shade {
   background-color: rgb(225, 153, 165);
 }
+
+#num_one {
+  font-size: 40px;
+  color: rgb(4, 4, 220);
+}
+
+#num_two {
+  font-weight: bold;
+  background-color: rgb(99, 247, 99);
+  font-size: 30px;
+}
