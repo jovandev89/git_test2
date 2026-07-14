@@ -1,1 +1,12 @@
-/* Add CSS Styling */
+.btn,
+.btn--two {
+  font-size: 30px;
+  border: 2.5px solid darkgray;
+  color: white;
+  background-color: black;
+}
+
+.btn--yellow {
+  color: black;
+  background-color: yellow;
+}
